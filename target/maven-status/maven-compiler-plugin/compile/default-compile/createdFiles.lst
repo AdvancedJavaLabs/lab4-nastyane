@@ -1,0 +1,6 @@
+sales/DataSales.class
+sort/Mapper.class
+sales/MapperSales.class
+sort/Data.class
+sort/Reducer.class
+sales/ReducerSales.class
